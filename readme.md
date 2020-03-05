@@ -1,3 +1,8 @@
+DEPRECATED
+==========
+
+Successor: https://github.com/function61/chrome-server
+
 
 What it is about
 ================
